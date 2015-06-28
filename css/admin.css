@@ -1,0 +1,104 @@
+*{margin:0px auto; padding:0px;}
+body{
+	//background-image:url("../img/background.jpg");
+	background-attachment:fixed;
+	background-size:100% 100%;
+}
+.body{
+	margin-top:50px;
+	margin-left:10px;
+	margin-right:auto;
+	background:#3399FF;
+	border:1px dotted #3399FF;
+	width:220px;
+	padding:10px;
+	border-radius:3px;
+	position:fixed;
+}
+.uploadfile{
+	margin:0px 0px 10px 0px;
+}
+textarea{
+	resize:none;
+	height:100px;
+}
+.berita{
+ height:100px;
+    width: 600px;
+}
+.form_news{
+ margin: 55px auto 30px auto;
+    display: table;
+}
+.header{
+	color:white;
+	font-weight:bold;
+	display:block;
+	position:fixed;
+	height:50px;
+	width:100%;
+	//background: linear-gradient(rgba( 250, 152, 15, 1),rgba( 239, 85, 52, 1));
+    background: black;
+	box-shadow:0px 1px 9px black;
+}
+.logo{
+	float:left;
+	width:auto;
+	height:50px;
+	background-attachment:fixed;
+	background-position:top;
+	background-repeat:no-repeat;
+	//background:white;
+   // border: 1px solid blue;
+}
+.saintek{
+	margin:0px 10px 0px 20px; 
+}
+.title{
+	
+	text-shadow: 1px 1px 1px black;
+	margin:3px 0px 0px 5px;
+        // border: 1px solid blue;
+
+}
+.uin{
+	color:white;
+}
+.fakultas{
+	color:white;
+}
+.btncontroll{
+	margin-top:10px;
+}
+.logout{
+	float:right;
+}
+.table{
+	margin:55px 0px 30px 260px;
+	width:900px;
+}
+.left{
+ float: left;
+}
+.right{
+ float: right;
+}
+.form_login{
+	margin-top:20px;
+	border-radius:3px;
+	width:300px;
+	border:1px solid black;
+	padding:10px;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+a:active{
+    text-decoration: none;
+}
